@@ -9,6 +9,9 @@ __pycache__/
 # Pycharm
 .idea/
 
+# SQlite3
+*.sqlite*
+
 # Docker
 .dockerignore
 
